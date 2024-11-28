@@ -1,0 +1,6 @@
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
+github.com/wamuir/graft v0.9.0 h1:5DbPtr3MfWRq9bFHivbbvNic8h8jtcKK12Rxk0644iY=
+github.com/wamuir/graft v0.9.0/go.mod h1:k6NJX3fCM/xzh5NtHky9USdgHTcz2vAvHp4c23I6UK4=
+google.golang.org/protobuf v1.34.2 h1:6xV6lTsCfpGD21XK49h7MhtcApnLqkfYgPcdHftf6hg=
+google.golang.org/protobuf v1.34.2/go.mod h1:qYOHts0dSfpeUzUFpOMr/WGzszTmLH+DiWniOlNbLDw=
